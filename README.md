@@ -1,5 +1,5 @@
 # Housing Data Analysis Project
-## This repository contains SQL Project which is based on real Covid-19 Data.
+## This repository contains SQL Project which is based on Nashville Housing Data.
 
 ### Key points of the project are highlighted below:
 
